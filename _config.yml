@@ -1,0 +1,22 @@
+# Site settings
+title: Shahin Katebi
+description: Software Engineer
+# baseurl: "" #
+# url: "https://shaahin.us" #
+
+# User settings
+username: Shahin Katebi
+user_description: Co-founder at Beam IT Logistics, Founder at Seeb Co OÜ, Software Developer
+user_title: Software Engineer
+email: katebi@me.com
+twitter_username: ShahinKatebi
+github_username:  shaahin
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
+
+sass:
+  style: compact
