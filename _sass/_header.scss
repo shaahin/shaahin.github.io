@@ -46,6 +46,12 @@
     @extend .site-description;
     font-size: 18px;
   }
+
+  .site-details {
+    @extend .site-description;
+    font-size: 14px;
+    color: #bbbbbb;
+  }
 }
 
 .header-links {
